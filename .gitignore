@@ -39,3 +39,10 @@ plans/
 .pi/hf-sessions/
 .pi/hf-sessions-backup/
 collect.sh
+
+# ===== PERSONAL SECRETS - DO NOT COMMIT =====
+agent/auth.json
+agent/sessions/
+agent/bin/
+agent/models.json
+agent/*.log

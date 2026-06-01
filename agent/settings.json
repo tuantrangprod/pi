@@ -1,0 +1,12 @@
+{
+  "lastChangelogVersion": "0.78.0",
+  "defaultProvider": "opencode-go",
+  "defaultModel": "deepseek-v4-flash",
+  "defaultThinkingLevel": "high",
+  "terminal": {
+    "showTerminalProgress": true
+  },
+  "doubleEscapeAction": "tree",
+  "treeFilterMode": "no-tools",
+  "hideThinkingBlock": false
+}
